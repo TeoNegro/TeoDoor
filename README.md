@@ -1,1 +1,2 @@
 # TeoDoor
+welcome mga bading
